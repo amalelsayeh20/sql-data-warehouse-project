@@ -12,7 +12,7 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 <img width="870" height="741" alt="Screenshot 2026-06-21 095941" src="https://github.com/user-attachments/assets/59220fb0-772f-4011-90e5-edffb1b9d1d7" />
 
 
-## Project Overview**
+## Project Overview
 
 
 
@@ -46,7 +46,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 
 
-## Project Requiements**
+## Project Requiements
 
 
 
@@ -82,7 +82,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 
 
-## 📂 Repository Structure**
+## 📂 Repository Structure
 
 
 
